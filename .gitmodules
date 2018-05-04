@@ -1,0 +1,3 @@
+[submodule "vuePractice"]
+	path = vuePractice
+	url = https://github.com/mxochitl/vuePractice
